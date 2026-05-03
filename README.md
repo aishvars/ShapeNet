@@ -12,6 +12,7 @@ and 50 part labels across 16,880 3D shapes.
 ## Reproducing Results
 
 Open `ShapeNet_reproduce_code.ipynb` on Kaggle and follow the setup instructions at the top of the notebook. It covers:
+- Dataset download (https://www.kaggle.com/datasets/mitkir/shapenet) 
 - Attaching the trained checkpoints dataset
 - Setting up your Kaggle API token for the ShapeNet download
 - Expected runtime and output locations
